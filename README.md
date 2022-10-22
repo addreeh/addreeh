@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying for **DEV**
 
-- 👨‍💻 All of my projects are available at [addreeh.github.io/addreeh](addreeh.github.io/addreeh)
+- 👨‍💻 All of my projects are available at [addreeh.github.io/adripino](addreeh.github.io/adripino)
 
 - 📫 How to reach me **adripinohid@gmail.com**
 
